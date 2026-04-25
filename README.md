@@ -2,6 +2,10 @@
 # sonarProject
 A simple sonar using an Arduino to detect, lock, and track objects
 
+<p alight="center">
+<img src="samplePictures/sonar.png" width="400">
+</p>
+
 Uses Arduino IDE for Arduino coding and Processing 4 for the UI
 
 Upload sonarProject.ino to your Arduino via Arduino IDE
