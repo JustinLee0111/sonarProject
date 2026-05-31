@@ -1,7 +1,6 @@
 #include <Servo.h>
 #include <Arduino_FreeRTOS.h>
 
-//void TaskCalculateDistance(void *pvParameters);
 void TaskRotateServo(void *pvParameters);
 void TaskOutputDistance(void *pvParameters);
 
